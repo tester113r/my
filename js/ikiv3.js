@@ -5523,8 +5523,8 @@ function init() {
         UI.disable_navicon == true ? "none" : "block"
       }">
 				<ul class="menu_ul">
-					<li class="menu_li"><a href="t.me/nanons" target="_blank">Contributor</a></li>
-					<li class="menu_li"><a href="https://blog.iki,my.id" target="_blank">Blog</a></li>
+					<li class="menu_li"><a href="https://t.me/nanons" target="_blank">Contributor</a></li>
+					<li class="menu_li"><a href="https://blog.iki.my.id" target="_blank">Blog</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
 			</div>
